@@ -5,6 +5,12 @@
 
 }
 
+img.lado{
+
+     float:right
+
+}
+
 body {
     background-color: rgb(204, 157,248);
 }
